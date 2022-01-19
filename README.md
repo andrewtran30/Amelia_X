@@ -1,7 +1,7 @@
 # AmeliaX
 Amelia X is a fully autonomous virtual homework helper that uses natural language processing and a webscraper to provide students with academic assistance. Through the application, students can sign on, ask Amelia a question, and have recieve a response within seconds. If Amelia (the virtual tutor) fails to find the answer for the student's question, then Amelia will provide external links for the student to search. 
 ## Built With
-* [Heroku](https://www.heroku.com// "Heorku") - the database that stores user analytics
+* [Heroku](https://www.heroku.com// "Heorku") - deployed on Heroku, provides analytics
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/ "Flask") - the foundation for the frontend of the application
 * Natural Language Processing - used to parse user text towards the webscraper
 * See the demo here: http://ameliax.ingeniusx.org/
